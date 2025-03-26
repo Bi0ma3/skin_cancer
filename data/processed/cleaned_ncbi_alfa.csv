@@ -1,0 +1,13 @@
+"BioSample_ID","Population_Name","AA_Freq","A_Freq"
+"SAMN10492695","European",0.812,0.188
+"SAMN10492696","African Others",0.421,0.579
+"SAMN10492697","East Asian",0.733,0.267
+"SAMN10492698","African American",0.494,0.506
+"SAMN10492699","Latin American 1",0.815,0.185
+"SAMN10492700","Latin American 2",0.67,0.33
+"SAMN10492701","Other Asian",0.808,0.192
+"SAMN10492702","South Asian",0.673,0.327
+"SAMN10492703","African",0.491,0.509
+"SAMN10492704","Asian",0.75,0.25
+"SAMN10492705","Total",0.752,0.248
+"SAMN11605645","Other",0.661,0.339
