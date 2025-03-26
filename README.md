@@ -21,11 +21,17 @@ Our aim is to identify regional patterns of genetic risk and environmental expos
 skin_cancer/
 │
 ├── data/                # Cleaned datasets (e.g., allele frequencies, UV index)
+
 ├── notebooks/           # Jupyter notebooks for data exploration and analysis
+
 ├── scripts/             # Python scripts for data processing and visualization
+
 ├── figures/             # Plots, maps, and visualizations
+
 ├── results/             # Final outputs, statistics, or summary files
+
 ├── README.md            # Project documentation (this file)
+
 └── requirements.txt     # Required Python packages for environment setup
 
 
@@ -102,7 +108,7 @@ This is a collaborative academic research project. We welcome feedback and colla
 
 If you use any part of this repository in your work, please cite as:
 
-> Warner, M., Nguyen, V., Bobbett, B., & Wilde, R. (2025). *Exploring the Geographic Distribution of Skin Cancer-Related Gene Activity*. GitHub. https://github.com/your-username/skin_cancer
+> Warner, M., Nguyen, V., Bobbett, B., & Wilde, R. (2025). *Exploring the Geographic Distribution of Skin Cancer-Related Gene Activity*. GitHub. https://github.com/Bi0ma3/skin_cancer
 
 ## License
 
